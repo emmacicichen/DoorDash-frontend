@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root') //root is at inde.html, this react app is appended under index.html
 );
 
 // If you want to start measuring performance in your app, pass a function
