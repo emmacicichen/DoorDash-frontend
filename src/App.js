@@ -25,7 +25,7 @@ function App() {
                         level={2}
                         style={{ color: "white", lineHeight: "inherit", marginBottom: 0 }}
                     >
-                        Emma's Cuisine
+                        FoodNow
                     </Title>
                     {authed && (
                         <div>
